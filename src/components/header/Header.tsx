@@ -7,7 +7,7 @@ export function Header() {
         <h2 className="text-xl font-bold text-gray-800 mb-2">
           قیمت دلار امروز
         </h2>
-        <p className="text-2xl font-semibold text-green-600">82.500</p>
+        <p className="text-2xl font-semibold text-green-600">82700</p>
       </div>
     </div>
   );
